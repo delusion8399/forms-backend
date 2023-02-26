@@ -1,6 +1,6 @@
 module.exports = {
   server: {
-    port: 5001,
+    port: 3001,
     host: '127.0.0.1',
     hostWithPort: `127.0.0.1:${5001}`,
   },
